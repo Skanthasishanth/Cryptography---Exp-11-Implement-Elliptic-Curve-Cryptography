@@ -18,7 +18,9 @@ Alice and Bob choose private keys.
 
 Compute public keys 
 
+```
 public_key = private_key * G (point multiplication).
+```
 
 ### Step 4:
 
@@ -28,7 +30,9 @@ Exchange public keys.
 
 Compute the shared secret
 
+```
 shared_secret = private_key * public_key_received.
+```
 
 ## PROGRAM:
 
