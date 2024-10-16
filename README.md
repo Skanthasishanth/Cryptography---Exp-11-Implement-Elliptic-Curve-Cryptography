@@ -1,10 +1,10 @@
-# Cryptography---Exp-11-Implement-Elliptic-Curve-Cryptography-(ECC)
+# Exp-11 Implement Elliptic Curve Cryptography (ECC)
 
 ## AIM:
 
 To implement the Elliptic Curve Cryptography (ECC) key exchange algorithm and securely derive a shared secret key.
 
-## ALGORITHM:
+## DESIGN STEPS:
 
 ### Step 1:
 
